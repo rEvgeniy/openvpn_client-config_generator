@@ -14,11 +14,11 @@ CA_FILE="/etc/openvpn/server/ca.crt"
 # Name server to connect for 
 #
 SUFIJO=openvpn
-REMOTE=$SUFIJO".domain.com"
+REMOTE=198.50.119.130
 #
 # Openvpn port to connect for
 #
-PORT=1194
+PORT=29420
 #
 # General parameters storage in a OPTIONS variable
 #
